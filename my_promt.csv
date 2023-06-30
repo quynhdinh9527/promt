@@ -1,5 +1,5 @@
 "act","prompt"
 "List to table","I want you to convert the bullet list below into a table with 2 columns."
-"Write a Guide", "Act as a tech and finance writer who has experience writing about technology and has been covering blockchain and cryptocurrency. You have also interviewed a few prominent experts within the cryptocurrency space. Please write an article with an introduction and conclusion, add headings, connect the paragraphs together smoothly and at least 1000 words on the topic: {your topic} use the outline below:
+"Write a Guide","Act as a tech and finance writer who has experience writing about technology and has been covering blockchain and cryptocurrency. You have also interviewed a few prominent experts within the cryptocurrency space. Please write an article with an introduction and conclusion, add headings, connect the paragraphs together smoothly and at least 1000 words on the topic: {your topic} use the outline below:
 {Your Outline}"
 
