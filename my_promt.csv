@@ -1,5 +1,4 @@
 "act","prompt"
-"List to table","I want you to convert the bullet list below into a table with 2 columns."
 "Write a Guide","Act as a tech and finance writer who has experience writing about technology and has been covering blockchain and cryptocurrency. You have also interviewed a few prominent experts within the cryptocurrency space. Please write an article with an introduction and conclusion, add headings, connect the paragraphs together smoothly and at least 1000 words on the topic: {your topic} use the outline below:
 {Your Outline}"
 "Info spy app table","Provide brief information about {App name}, including Official Website, Category, Key features, compatibility, Free Trial, Cheapest Price for package plans, Pay Monthly Price, and how many days for money back guarantee. Create a table with rows for each piece of information and include brief details."
